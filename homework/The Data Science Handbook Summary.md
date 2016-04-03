@@ -1,4 +1,4 @@
-he Data Science Handbook Summary.mdThe Data Science Handbook
+The Data Science Handbook
 =======================
 
 This is a quick overview of the two first chapters of the book - interviews with **DJ Patil** and **Hilary Mason**.
