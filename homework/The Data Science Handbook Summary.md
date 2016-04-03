@@ -20,6 +20,7 @@ DJ Patil - <i>VP of Products at Related IQ</i>
 	> -- **focus** on delivering **value for somebody or something**
 
 
+
 Hilary Mason - <i>Fast Forward Labs and Accel</i>
 -------------
 > **Highlights:**
