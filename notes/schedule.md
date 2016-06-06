@@ -15,8 +15,8 @@
 | July 4th      | Recommendation engines; Dimensionality Reduction |
 | July 11th     | Decision trees; Ensembles                        |
 | July 18th     | Natural Language Processing; *Cloud computing?*  |
-| July 25th     | Time Series; *R?*                                |
-| August 1st    | *How to present?*                                |
+| July 25th     | Time Series; *R?* ; Web scraping?                |
+| August 1st    | *How to present?* ; *Computer vision?*           |
 | August 8th    | Friend and network analysis; Neural networks     |
 
 ## Homework and Project
