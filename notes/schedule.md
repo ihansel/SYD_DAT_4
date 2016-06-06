@@ -24,8 +24,8 @@
 | Assignment                  | Due Date   | Suggested Start Date |
 | --------------------------- | ---------- | -------------------- |
 | Homework1.ipynb             | June 17th  | June 6th             |
-| Homework2.ipynb             |            |                      |
-| Homework3.ipynb             |            |                      |
+| Homework2.ipynb             | July 8th   | June 18th            |
+| Homework3.ipynb             | July 22nd  | July 9th             |
 | Mid-course project check-in |            |                      |
 | Project final date          | August 8th |                      |
 
