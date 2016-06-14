@@ -20,12 +20,15 @@ Read [Analyzing the Analyzers](http://cdn.oreillystatic.com/oreilly/radarreport/
 a mainstream programming language, combo of applied maths and CS + business understanding. 
 * Difference between a data gopher and a data scientist is in the business understanding
 * Learning R is important, he says it's 'kind of ugly' but the lingua franca - stay away from commercial proprietary packages - I read into this Matlab, ugh. 
-|---- Skill ----|---- Weight ----|---- my skill ---|
-| SQL | 40% | 6/10 |
-| Hadoop | 30% | 0/10 |
-| R | 15% | 0/10 |
-| Mainstream programming language | 10% | 5/10 |
-| Mainstream scripting language | 5% | 7/10 |
+
+| Skill                           | Weighting | Me                                        |
+|---------------------------------|-----------|-------------------------------------------|
+| SQL                             | 40%       | 7/10                                      |
+| Hadoop                          | 30%       | 0/10                                      |
+| R                               | 15%       | 0/10                                      |
+| Mainstream programming language | 10%       | 5/10 (10yrs exp. non-mainstream language) |
+| Mainstream scripting language   | 5%        | 7/10                                      |
+
 * The most useful insight for me was about how academics communicate; George writes about how academics are deeply involved in process and communicate it linearely whereas business stakeholders want the main insights straight away - that resonated with me greatly as a corporate designer with an academic background: I go into too much detail when justifying design decsisions. 
 * The comments about efficiency and results over 'knowledge for knowledge sake' again resonate, it's very easy to get wrapped up in a design or analytics problem because it is inherently interesting rather than interesting *and* useful. He also expands on this by saying 'don't fall in love with your ideas. Market feedback is the only thing that matters" (sic) - in Data Science, lol 
 * Building relationships with non-technical stakeholders important, speak to all sorts of people, good advice for life too.
@@ -33,9 +36,9 @@ a mainstream programming language, combo of applied maths and CS + business unde
 * "A successful data scientist changes the world around them" noice, likewise a sucessfull designer - however, the ethics and character of the Data Scientist is what makes this statement either good or bad.
 * George says his CS degree didn't impart team work skills, I wonder if this is different now-a-days, group work was a constant in my undergrad uni experience, and seemed even more present when I got to teach some classes, however that was not in CS field. 
 * Future: an explosion of consumer and enterprise apps built on data science - completely agree - there are so many interesting things sitting in the masses of data we are collecting but not looking at.
-
+N.B - used a markdown table generator for below: http://www.tablesgenerator.com/markdown_tables
     
-    | Project idea                                                                    | Description                                                                                                                                           | Data                                                                                                         | Outcome                                                                                                                       | Model                                                                                                                       |
+| Project idea                                                                    | Description                                                                                                                                           | Data                                                                                                         | Outcome                                                                                                                       | Model                                                                                                                       |
 |---------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
 | Project Idea 1: Model information seeking styles of customers                   | Model product behaviours of differetn skill levels of SaaS users: e.g. new intermediate and advanced, and the types of tech doc content they seek out | Product and web analytics,Audience/demographic data - incl. role, company/instance/team size                 | Use the analysis to inform info support content in-product and org of docs for the right people and time                      | ISS model, MLR, cluster, predictive model of tech docs needs at different stages.Ę                                          |
 |                                                                                 |                                                                                                                                                       |                                                                                                              |                                                                                                                               |                                                                                                                             |
@@ -44,6 +47,3 @@ a mainstream programming language, combo of applied maths and CS + business unde
 | Project Idea 4Ę: Survey feedback themes and sentiment                           | Use an nlp library to categorise themes in open text survey feedback                                                                                  | Survey/interview comments, reader (internal employee) scoring of sentiment (pos/neu/neg) to train algoryim.Ę | Monitor emerging and changing themes in ongoing survey feedback to prioritise product design decisions                        | NLP, predictive learning, ML.                                                                                               |
 | Project Idea 5: UI discoverability index: how easy is it to find the next step? | Look at movement/hover and click time as an index of UI discoverability issues                                                                        | Product analytics events, heatmaps                                                                           | UI discoverability score for a given interface element/task                                                                   | Time/ Distribution statistics, signal detection.                                                                            |
         
-
-**Instructions: copy this file and append your name in the filename, e.g. Homework1_ian_hansel.ipynb.
-Then commit this in your local repository, push it to your github account and create a pull request so I can see your work. Remeber if you get stuck to look at the slides going over Fork, Clone, Commit, Push and Pull request.**
