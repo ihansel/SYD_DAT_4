@@ -35,6 +35,8 @@ a mainstream programming language, combo of applied maths and CS + business unde
 * "A successful data scientist changes the world around them" noice, likewise a sucessfull designer - however, the ethics and character of the Data Scientist is what makes this statement either good or bad.
 * George says his CS degree didn't impart team work skills, I wonder if this is different now-a-days, group work was a constant in my undergrad uni experience, and seemed even more present when I got to teach some classes, however that was not in CS field. 
 * Future: an explosion of consumer and enterprise apps built on data science - completely agree - there are so many interesting things sitting in the masses of data we are collecting but not looking at.
+* 
+##### Project ideas
 N.B - used a markdown table generator for below: http://www.tablesgenerator.com/markdown_tables
     
 | Project idea                                                                    | Description                                                                                                                                           | Data                                                                                                         | Outcome                                                                                                                       | Model                                                                                                                       |
