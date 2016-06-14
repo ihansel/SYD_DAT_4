@@ -26,7 +26,7 @@ a mainstream programming language, combo of applied maths and CS + business unde
 | Hadoop                          | 30%       | 0/10                                      |
 | R                               | 15%       | 0/10                                      |
 | Mainstream programming language | 10%       | 5/10 (10yrs exp. non-mainstream language) |
-| Mainstream scripting language   | 5%        | 7/10                                      |
+| Mainstream scripting language   | 5%        | 8/10                                      |
 
 * The most useful insight for me was about how academics communicate; George writes about how academics are deeply involved in process and communicate it linearely whereas business stakeholders want the main insights straight away - that resonated with me greatly as a corporate designer with an academic background: I go into too much detail when justifying design decsisions. 
 * The comments about efficiency and results over 'knowledge for knowledge sake' again resonate, it's very easy to get wrapped up in a design or analytics problem because it is inherently interesting rather than interesting *and* useful. He also expands on this by saying 'don't fall in love with your ideas. Market feedback is the only thing that matters" (sic) - in Data Science, lol 
