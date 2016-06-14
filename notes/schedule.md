@@ -16,7 +16,7 @@
 | July 11th     | Decision trees; Ensembles                        |
 | July 18th     | Natural Language Processing; *Cloud computing?*  |
 | July 25th     | Time Series; *R?* ; Web scraping?                |
-| August 1st    | *How to present?* ; *Computer vision?*           |
+| August 1st    | *Computer vision?*                               |
 | August 8th    | Friend/network analysis; presentations; wrap-up party |
 
 ## Homework and Project
