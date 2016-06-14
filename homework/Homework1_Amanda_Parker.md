@@ -2,7 +2,7 @@
 
 ##Homework:
 * Read about some [Markdown Techniques](http://daringfireball.net/projects/markdown/syntax)
-* 
+
 ##### Analyzing the Analyzers
 ###### Task: Write down 5 key points you took away from the article
 Read [Analyzing the Analyzers](http://cdn.oreillystatic.com/oreilly/radarreport/0636920029014/Analyzing_the_Analyzers.pdf) for a useful look at the different types of data scientists. Write down 5 key points you took away from the article
