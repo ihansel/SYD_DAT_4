@@ -1,0 +1,19 @@
+* I couldn't find the coding section of your homework.
+
+Looking at your project ideas:
+
+* Seeing how the probability of a country winning a medal in an event
+  changed over time could be quite interesting. The data is relatively
+  easy to get hold of too.
+
+* I'm not sure where you will get the data for your book project.
+
+* The flight information one looks good: it looks like Google have an
+  API (QPX Express) that you could use to collect data.
+
+* The salary one is unlikely to work: I'm not sure you'll be able to
+  get sufficient data to say much more than "professionals earn more
+  than labourers"
+
+* I think the weather project won't be hard enough or interesting
+  enough: tourism Australia maintain that sort of information.

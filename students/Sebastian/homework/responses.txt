@@ -1,0 +1,32 @@
+* It looks like you had no troubles with the coding part of the homework.
+
+Looking through the projects:
+
+* I don't think a naive approach with AFL will work (classifying teams
+  as winners or losers); maybe if you are lucky you might be able to
+  model this as a 2-stage Bayesian network. i.e. Classify teams into
+  (say) 'aggressive', 'defensive', 'speedy' and so on. Then ask
+  "what's the probability of an aggressive team beating a defensive
+  team?"
+
+* Finance: only do it if you are passionate about this
+  direction. There are plenty of jobs for quants at finance firms
+  (both in Sydney and in New York) -- doing this project could
+  guarantee you one if you want it.
+
+* Speech: given about 7 words, it's usually possible to predict the
+  8th one. Except when it's a Two Ronnie's sketch. So it might well
+  work.
+
+* Traffic: google maps has this data, but I don't think they'll share
+  it. It's hard to get at the latent underlying model though.
+
+* Auto-muter: yes, possibly. The volume in ads is higher than in a
+  movie, and it is associated with a significant scene change (99% of
+  pixels changing from their previous values and a different
+  distribution of colours to the previous few seconds). So you could
+  learn what is likely to be an ad automatically.
+
+* The school is Cranbrook. They don't have the network data yet, but I
+  guess they could put it together for you quickly. If you want to do
+  this, we'll need to get started ASAP.
