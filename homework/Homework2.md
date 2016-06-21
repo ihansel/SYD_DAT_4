@@ -1,6 +1,9 @@
 # SYD DAT 5 Lab 2 - Visualisation and Regression
 
+Make sure you have completed any labs that you might have missed or didn't finish.
+
 ##Homework - Due July 8th, 2016
+
 
 * For the following use the github repository you made for your project. 
 * Load some data you have gathered for your project into Python.
