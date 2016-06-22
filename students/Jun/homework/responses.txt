@@ -1,0 +1,16 @@
+* Like Emila, at command 11/60, you could even have put the two lines together:  users[users.duplicated()]
+
+* Your "demand for medical infrastructure" project looks very
+  interesting, and I would expect will waltz you into your next job or
+  promotion very easily. I've got a few contacts at hospitals in
+  fast-growing regions (e.g. Liverpool) who might be interested in talking to you.
+
+* The epidemic alert looks hard, not least because it will be
+  difficult to test your process out in the next 7 weeks.
+
+* You might want to talk to the folks at HLA Global, as they have some
+  interesting natural language processing technology.
+
+* The financial prediction ones will be hard because trading data is
+  large and noisy. But they could be quite profitable if you can get
+  something out of it!

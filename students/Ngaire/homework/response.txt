@@ -1,0 +1,22 @@
+* I'm not 100% sure that I'm looking at the right files for your homework.
+
+* data science handbook homework Ngaire - you have a mixture of HTML
+  (<p>) tags and Markdown format tags. I don't know of any markdown
+  dialect where this is valid. If you have a blank line between blocks
+  of text, that gets turned into a paragraph break normally in
+  Markdown.
+
+
+
+In the coding part of the homework, you wrote something like this:
+
+
+    rdm = users.groupby(['occupation','gender','age', 'zip_code'])
+    rows = random.sample(rdm, 10)
+    rows
+
+You'll find that a dataframe (like `users` in your code) has a method
+called .sample() which might have been easier to use.
+
+
+* I couldn't find your proposed projects.

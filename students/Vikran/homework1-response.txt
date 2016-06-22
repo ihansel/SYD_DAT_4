@@ -1,0 +1,5 @@
+* It looks like you had no trouble with any of the coding exercises, nor with the markdown authoring.
+
+* Your projects are all around the same theme, which would normally be
+  OK, but I'm hoping that there will be some interesting result that
+  you can pull out of the data sets you have.

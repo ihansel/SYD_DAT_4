@@ -1,0 +1,8 @@
+* The "Key Point 1" dot points formatted strangely; it looks like you
+  did a copy-and-paste of the dot-point character into the file. Use *
+  or + or - instead.
+
+* Your house price project might be hard -- there's a lot of data to
+  collected and I'm not sure how easy it is to get. The electricity
+  and solar ones look interesting, particularly if this is something
+  you have a lot of experience with.

@@ -1,0 +1,8 @@
+* At 58, you could even have put the two lines together:  users[users.duplicated()]
+
+* All your projects look do-able. The article recommendation engine
+  will probably have a lot of overhead (reading twitter feeds,
+  following links and so on), compared to the amount of data science in it.
+
+* If you and Ben both end up doing real estate projects, you might
+  want to collaborate on your scraping

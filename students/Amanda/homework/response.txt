@@ -1,0 +1,6 @@
+* Good idea to use the markdown table generator. Your project table
+  would have been difficult to write otherwise.
+
+* All of the projects seem sensible and do-able (I think). For the UI
+  discoverability I wonder if you could incorporate eye tracking
+  software?
