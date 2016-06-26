@@ -1,0 +1,25 @@
+
+
+{
+    "firstName": "John",
+    "lastName": "Smith",
+    "age": 25,
+    "address": {
+	"streetAddress": "34 York Street",
+	"city": "Sydney",
+	"state": "NSW",
+	"postalCode": "2000"
+    },
+    "phoneNumbers": [
+	{
+	    "type": "home",
+	    "number": "02 9599 9999"
+	},
+	{
+	    "type": "mobile",
+	    "number": "0431 111 111"
+	}
+    ],
+    "children": [],
+    "spouse": null
+}
