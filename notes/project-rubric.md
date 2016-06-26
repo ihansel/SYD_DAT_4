@@ -35,6 +35,11 @@
   reasons for this.
 
 
+** Model
+
+- What do you believe are the underlying factors explaining your data?
+
+
 ** Presentation / Prediction
 
 - Tell an interesting story about what your data is showing, OR
