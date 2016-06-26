@@ -6,28 +6,27 @@
 
 ## Topics
 
-| Week Starting | Topics                                           |
-| ------------- | ------------------------------------------------ |
-| June 6th      | Intro to Data Science, Git and Python; Pandas    |
-| June 13th     | Data Visualisation; Regression                   |
-| June 20th     | Logistic Regression; Model Evaluation            |
-| June 27th     | Regularisation; Clustering                       |
-| July 4th      | Recommendation engines; Dimensionality Reduction |
-| July 11th     | Decision trees; Ensembles                        |
-| July 18th     | Natural Language Processing; *Cloud computing?*  |
-| July 25th     | Time Series; *R?* ; Web scraping?                |
-| August 1st    | *Computer vision?*                               |
+| Week Starting | Topics                                                |
+| ------------- | ----------------------------------------------------- |
+| June 6th      | Intro to Data Science, Git and Python                 |
+| June 13th     | Pandas; Data Visualisation                            |
+| June 20th     | Linear Regression; Logistic Regression;               |
+| June 27th     | Web scraping; Natural Language Processing             |
+| July 4th      | Recommendation engines; Dimensionality Reduction      |
+| July 11th     | Decision trees; Ensembles                             |
+| July 18th     | Model Evaluation ; Regularisation; Clustering         |
+| July 25th     | Time Series; *R?*                                     |
+| August 1st    | *Computer vision?*                                    |
 | August 8th    | Friend/network analysis; presentations; wrap-up party |
 
 ## Homework and Project
 
-| Assignment                  | Due Date   | Suggested Start Date |
-| --------------------------- | ---------- | -------------------- |
-| Homework1.ipynb             | June 17th  | June 6th             |
-| Homework2.ipynb             | July 8th   | June 18th            |
-| Homework3.ipynb             | July 22nd  | July 9th             |
-| Mid-course project check-in |            |                      |
-| Project final date          | August 8th |                      |
+| Assignment                  | Due Date (8am)    | Suggested Start Date |
+| --------------------------- | ----------------- | -------------------- |
+| Homework1.ipynb             | Monday June 20th  | June 6th             |
+| Homework2.ipynb             | Monday July 11th  | June 21st            |
+| Homework3.ipynb             | Monday July 25nd  | July 9th             |
+| Mid-course project check-in |                   |                      |
+| Project final date          | August 8th        |                      |
 
 
-## Project
