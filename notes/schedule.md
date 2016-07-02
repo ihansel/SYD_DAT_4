@@ -12,9 +12,9 @@
 | June 13th     | Pandas; Data Visualisation                            |
 | June 20th     | Linear Regression; Logistic Regression;               |
 | June 27th     | Web scraping; Natural Language Processing             |
-| July 4th      | Recommendation engines; Dimensionality Reduction      |
+| July 4th      | Clustering; Decision Trees                            |
 | July 11th     | Decision trees; Ensembles                             |
-| July 18th     | Model Evaluation ; Regularisation; Clustering         |
+| July 18th     | Model Evaluation ; Regularisation                     |
 | July 25th     | Time Series; *R?*                                     |
 | August 1st    | *Computer vision?*                                    |
 | August 8th    | Friend/network analysis; presentations; wrap-up party |
