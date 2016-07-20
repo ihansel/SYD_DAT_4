@@ -12,12 +12,12 @@
 | June 13th     | Pandas; Data Visualisation                            |
 | June 20th     | Linear Regression; Logistic Regression;               |
 | June 27th     | Web scraping; Natural Language Processing             |
-| July 4th      | Clustering; Decision Trees                            |
-| July 11th     | Decision trees; Ensembles                             |
-| July 18th     | Model Evaluation ; Regularisation                     |
-| July 25th     | Time Series; *R?*                                     |
-| August 1st    | *Computer vision?*                                    |
-| August 8th    | Friend/network analysis; presentations; wrap-up party |
+| July 4th      | Clustering; Decision Trees; Model Evaluation          |
+| July 11th     | Model optimisation, Ensembles                         | 
+| July 18th     | Amazon AWS ; Curse of dimensionality                  |
+| July 25th     | Bayesian Analysis; Time Series;                       |
+| August 1st    | Regularisation; Friend/network analysis               |
+| August 8th    | Presentations; wrap-up party; recommendation engines; computer vision |
 
 ## Homework and Project
 
